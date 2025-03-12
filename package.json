@@ -1,15 +1,15 @@
 {
   "name": "emr-mock-server",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "server and api to mock emr app",
+  "main": "server.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon server.mjs"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "sarah w su",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.21.2",
     "nodemon": "^3.1.9"
