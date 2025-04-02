@@ -1,0 +1,15 @@
+first_name,last_name,username,email,password,user_role
+Jane,Doe,Dr_Jane,drjane@email.email,aoweihfzsbdf,doctor
+Pizza,Guy,the_pizza_guy,aweflkjas@alsdjkfa,"zc,vmnczvxjhkfaew",patient
+Michelle,Brownson,blahx3,blahx3@sadfa,aosdjfase,patient
+Paul,Smith,popopo,alsdfj@asdlfk,qwepruoisgo,patient
+Sarah,Johnson,sjohnson,sarah.j@example.com,Password123,staff
+Mike,Smith,msmith,mike.s@example.com,Qwerty789,patient
+Alice,Walker,awalker,alice.w@example.com,SecurePass456,doctor
+John,Doe,jdoe,john.d@example.com,Test1234,staff
+Emma,White,ewhite,emma.w@example.com,Pass4321,patient
+David,Brown,dbrown,david.b@example.com,MyPass098,patient
+Sophia,Taylor,staylor,sophia.t@example.com,Secret987,patient
+Liam,Miller,lmiller,liam.m@example.com,HelloWorld1,staff
+Olivia,Wilson,owilson,olivia.w@example.com,StrongPass,doctor
+Noah,Moore,nmoore,noah.m@example.com,PassMe456,doctor
