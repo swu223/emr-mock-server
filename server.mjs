@@ -7,6 +7,8 @@ app.get('/', (req,res) => {
   res.send('Hello server folks')
 })
 
-app.listen(3000, ()=>{
+
+
+app.listen(PORT, ()=>{
   console.log(`emr server running on PORT:${PORT}`)
 })
